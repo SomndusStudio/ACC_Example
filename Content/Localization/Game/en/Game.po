@@ -1,0 +1,869 @@
+﻿# Game English translation.
+# Copyright Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2023-07-04 00:31\n"
+"PO-Revision-Date: 2023-07-04 00:31\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	alert.cant_remove_char
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,alert.cant_remove_char"
+msgid "You can't remove character until you don't have 2 or more"
+msgstr "You can't remove character until you don't have 2 or more"
+
+#. Key:	ask.entry_pseudo
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,ask.entry_pseudo"
+msgid "Please enter the pseudo"
+msgstr "Please enter the pseudo"
+
+#. Key:	breast
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,breast"
+msgid "Breast"
+msgstr "Breast"
+
+#. Key:	btn.back
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,btn.back"
+msgid "Back"
+msgstr "Back"
+
+#. Key:	btn.blue_star
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,btn.blue_star"
+msgid "Blue Star"
+msgstr "Blue Star"
+
+#. Key:	btn.cancel
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,btn.cancel"
+msgid "Cancel"
+msgstr "Cancel"
+
+#. Key:	btn.change_specie
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,btn.change_specie"
+msgid "Change Specie"
+msgstr "Change Specie"
+
+#. Key:	btn.close
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,btn.close"
+msgid "Close"
+msgstr "Close"
+
+#. Key:	btn.confirm
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,btn.confirm"
+msgid "Confirm"
+msgstr "Confirm"
+
+#. Key:	btn.convert_char_creation_to_json
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,btn.convert_char_creation_to_json"
+msgid "Convert To Json"
+msgstr "Convert To Json"
+
+#. Key:	btn.edition
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,btn.edition"
+msgid "Edition"
+msgstr "Edition"
+
+#. Key:	btn.finish
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,btn.finish"
+msgid "Finish"
+msgstr "Finish"
+
+#. Key:	btn.json_to_char_creation
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,btn.json_to_char_creation"
+msgid "Json to Character"
+msgstr "Json to Character"
+
+#. Key:	btn.no
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,btn.no"
+msgid "No"
+msgstr "No"
+
+#. Key:	btn.ok
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,btn.ok"
+msgid "Ok"
+msgstr "Ok"
+
+#. Key:	btn.open_detail
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,btn.open_detail"
+msgid "Open Detail"
+msgstr "Open Detail"
+
+#. Key:	btn.open_gender_modal
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,btn.open_gender_modal"
+msgid "Change Gender"
+msgstr "Change Gender"
+
+#. Key:	btn.open_json_tool
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,btn.open_json_tool"
+msgid "Open Json Tool"
+msgstr "Open Json Tool"
+
+#. Key:	btn.pink_star
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,btn.pink_star"
+msgid "Pink Star"
+msgstr "Pink Star"
+
+#. Key:	btn.start_as_client
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,btn.start_as_client"
+msgid "Start as Client"
+msgstr "Start as Client"
+
+#. Key:	btn.start_as_server
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,btn.start_as_server"
+msgid "Start as Server"
+msgstr "Start as Server"
+
+#. Key:	btn.start_game
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,btn.start_game"
+msgid "Start Game"
+msgstr "Start Game"
+
+#. Key:	btn.yes
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,btn.yes"
+msgid "Yes"
+msgstr "Yes"
+
+#. Key:	elf_ear
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,elf_ear"
+msgid "ElfEar"
+msgstr "ElfEar"
+
+#. Key:	forehead_a
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,forehead_a"
+msgid "Forehead"
+msgstr "Forehead"
+
+#. Key:	forenose_a
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,forenose_a"
+msgid "Forenose"
+msgstr "Forenose"
+
+#. Key:	header.character_detail
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,header.character_detail"
+msgid "Character Detail"
+msgstr "Character Detail"
+
+#. Key:	header_character_selection
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,header_character_selection"
+msgid "Characters Selection"
+msgstr "Characters Selection"
+
+#. Key:	hips
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,hips"
+msgid "Hips"
+msgstr "Hips"
+
+#. Key:	hips_size
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,hips_size"
+msgid "Hips"
+msgstr "Hips"
+
+#. Key:	jaw_fat
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,jaw_fat"
+msgid "Jaw Fat"
+msgstr "Jaw Fat"
+
+#. Key:	label.char_level
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,label.char_level"
+msgid "Lv.{value}"
+msgstr "Lv.{value}"
+
+#. Key:	label.dark
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,label.dark"
+msgid "Dark"
+msgstr "Dark"
+
+#. Key:	label.diamond
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,label.diamond"
+msgid "Diamond"
+msgstr "Diamond"
+
+#. Key:	label.enter_name
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,label.enter_name"
+msgid "Enter Name :"
+msgstr "Enter Name :"
+
+#. Key:	label.eye_size
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,label.eye_size"
+msgid "EyeSize"
+msgstr "EyeSize"
+
+#. Key:	label.large
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,label.large"
+msgid "Large"
+msgstr "Large"
+
+#. Key:	label.light
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,label.light"
+msgid "Light"
+msgstr "Light"
+
+#. Key:	label.muscle
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,label.muscle"
+msgid "Muscle"
+msgstr "Muscle"
+
+#. Key:	label.round
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,label.round"
+msgid "Round"
+msgstr "Round"
+
+#. Key:	label.short_blue
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,label.short_blue"
+msgid "B"
+msgstr "B"
+
+#. Key:	label.short_green
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,label.short_green"
+msgid "G "
+msgstr "G "
+
+#. Key:	label.short_red
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,label.short_red"
+msgid "R"
+msgstr "R"
+
+#. Key:	label.slim
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,label.slim"
+msgid "Slim"
+msgstr "Slim"
+
+#. Key:	label.square
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,label.square"
+msgid "Square"
+msgstr "Square"
+
+#. Key:	menu.base
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,menu.base"
+msgid "Base"
+msgstr "Base"
+
+#. Key:	menu.body
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,menu.body"
+msgid "Body"
+msgstr "Body"
+
+#. Key:	menu.brow
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,menu.brow"
+msgid "Brow"
+msgstr "Brow"
+
+#. Key:	menu.custom
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,menu.custom"
+msgid "Custom"
+msgstr "Custom"
+
+#. Key:	menu.detail
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,menu.detail"
+msgid "Detail"
+msgstr "Detail"
+
+#. Key:	menu.extra
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,menu.extra"
+msgid "Extra"
+msgstr "Extra"
+
+#. Key:	menu.eye
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,menu.eye"
+msgid "Eye"
+msgstr "Eye"
+
+#. Key:	menu.eye_shape
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,menu.eye_shape"
+msgid "Eye Shape"
+msgstr "Eye Shape"
+
+#. Key:	menu.face_custom
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,menu.face_custom"
+msgid "Face Custom"
+msgstr "Face Custom"
+
+#. Key:	menu.gender
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,menu.gender"
+msgid "Gender"
+msgstr "Gender"
+
+#. Key:	menu.general
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,menu.general"
+msgid "General"
+msgstr "General"
+
+#. Key:	menu.hair
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,menu.hair"
+msgid "Hair"
+msgstr "Hair"
+
+#. Key:	menu.hair_color
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,menu.hair_color"
+msgid "Hair Color"
+msgstr "Hair Color"
+
+#. Key:	menu.head
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,menu.head"
+msgid "Head"
+msgstr "Head"
+
+#. Key:	menu.maturity
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,menu.maturity"
+msgid "Maturity"
+msgstr "Maturity"
+
+#. Key:	menu.morph_detail
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,menu.morph_detail"
+msgid "Morph Detail"
+msgstr "Morph Detail"
+
+#. Key:	menu.morphs
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,menu.morphs"
+msgid "Morphs"
+msgstr "Morphs"
+
+#. Key:	menu.outfits
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,menu.outfits"
+msgid "Outfits"
+msgstr "Outfits"
+
+#. Key:	menu.pose_style
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,menu.pose_style"
+msgid "Pose Style"
+msgstr "Pose Style"
+
+#. Key:	menu.preset
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,menu.preset"
+msgid "Preset"
+msgstr "Preset"
+
+#. Key:	menu.skin_color
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,menu.skin_color"
+msgid "Skin Color"
+msgstr "Skin Color"
+
+#. Key:	menu.skin_color_2
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,menu.skin_color_2"
+msgid "Skin Color 2"
+msgstr "Skin Color 2"
+
+#. Key:	message.ask_add_character
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,message.ask_add_character"
+msgid "Are you sure do you want add a new character ?"
+msgstr "Are you sure do you want add a new character ?"
+
+#. Key:	message.ask_copy_character
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,message.ask_copy_character"
+msgid "You will copy this character as newer, it's good for you ?"
+msgstr "You will copy this character as newer, it's good for you ?"
+
+#. Key:	message.ask_remove_char
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,message.ask_remove_char"
+msgid "Did you want delete the selected character ?"
+msgstr "Did you want delete the selected character ?"
+
+#. Key:	message.save_in_progress
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,message.save_in_progress"
+msgid "Save in progress"
+msgstr "Save in progress"
+
+#. Key:	message.waiting
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,message.waiting"
+msgid "Waiting"
+msgstr "Waiting"
+
+#. Key:	messsage.character_remove_progress
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,messsage.character_remove_progress"
+msgid "Character removing..."
+msgstr "Character removing..."
+
+#. Key:	mouth_sx_a
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,mouth_sx_a"
+msgid "Mouth Size X"
+msgstr "Mouth Size X"
+
+#. Key:	mressage.ask_edit_char
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,mressage.ask_edit_char"
+msgid "You will edit the selected character, it's ok ?"
+msgstr "You will edit the selected character, it's ok ?"
+
+#. Key:	skybox.01
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,skybox.01"
+msgid "Blue Sky"
+msgstr "Blue Sky"
+
+#. Key:	skybox.02
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,skybox.02"
+msgid "Violet Sky"
+msgstr "Violet Sky"
+
+#. Key:	template_name
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,template_name"
+msgid "Anime Character Creator"
+msgstr "Anime Character Creator"
+
+#. Key:	template_name_with_version
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,template_name_with_version"
+msgid "Anime Character Creator {version}"
+msgstr "Anime Character Creator {version}"
+
+#. Key:	title.accessory
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,title.accessory"
+msgid "Accessory"
+msgstr "Accessory"
+
+#. Key:	title.background
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,title.background"
+msgid "Background"
+msgstr "Background"
+
+#. Key:	title.bearb
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,title.bearb"
+msgid "Bearb"
+msgstr "Bearb"
+
+#. Key:	title.body_morphs
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,title.body_morphs"
+msgid "Body Morphs"
+msgstr "Body Morphs"
+
+#. Key:	title.change_lang
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,title.change_lang"
+msgid "Change Language"
+msgstr "Change Language"
+
+#. Key:	title.character_preset
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,title.character_preset"
+msgid "Character Preset"
+msgstr "Character Preset"
+
+#. Key:	title.choose_specie
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,title.choose_specie"
+msgid "Choose Specie"
+msgstr "Choose Specie"
+
+#. Key:	title.cloth
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,title.cloth"
+msgid "Cloth"
+msgstr "Cloth"
+
+#. Key:	title.cloth_foot
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,title.cloth_foot"
+msgid "Cloth Foot"
+msgstr "Cloth Foot"
+
+#. Key:	title.cloth_pant
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,title.cloth_pant"
+msgid "Cloth Pant"
+msgstr "Cloth Pant"
+
+#. Key:	title.cloth_top
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,title.cloth_top"
+msgid "Cloth Top"
+msgstr "Cloth Top"
+
+#. Key:	title.color_1
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,title.color_1"
+msgid "Color 1"
+msgstr "Color 1"
+
+#. Key:	title.color_2
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,title.color_2"
+msgid "Color 2"
+msgstr "Color 2"
+
+#. Key:	title.color_3
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,title.color_3"
+msgid "Color 3"
+msgstr "Color 3"
+
+#. Key:	title.custom_face
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,title.custom_face"
+msgid "Custom Face"
+msgstr "Custom Face"
+
+#. Key:	title.custom_face_color
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,title.custom_face_color"
+msgid "Custom Face - Color"
+msgstr "Custom Face - Color"
+
+#. Key:	title.details
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,title.details"
+msgid "Details"
+msgstr "Details"
+
+#. Key:	title.display_circle
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,title.display_circle"
+msgid "Display Circle"
+msgstr "Display Circle"
+
+#. Key:	title.eye_brow
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,title.eye_brow"
+msgid "Eye Brow"
+msgstr "Eye Brow"
+
+#. Key:	title.eye_color
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,title.eye_color"
+msgid "Eye Color"
+msgstr "Eye Color"
+
+#. Key:	title.eye_style
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,title.eye_style"
+msgid "Eye Style"
+msgstr "Eye Style"
+
+#. Key:	title.glove
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,title.glove"
+msgid "Glove"
+msgstr "Glove"
+
+#. Key:	title.hair_back
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,title.hair_back"
+msgid "Hair Back"
+msgstr "Hair Back"
+
+#. Key:	title.hair_front
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,title.hair_front"
+msgid "Hair Front"
+msgstr "Hair Front"
+
+#. Key:	title.hair_side_left
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,title.hair_side_left"
+msgid "Hair Side Left"
+msgstr "Hair Side Left"
+
+#. Key:	title.hair_side_right
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,title.hair_side_right"
+msgid "Hair Side Right"
+msgstr "Hair Side Right"
+
+#. Key:	title.hair_style
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,title.hair_style"
+msgid "Hair Style"
+msgstr "Hair Style"
+
+#. Key:	title.hair_tail_back
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,title.hair_tail_back"
+msgid "Hair Tail back"
+msgstr "Hair Tail back"
+
+#. Key:	title.hair_tail_back_position
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,title.hair_tail_back_position"
+msgid "Hair Tail back - Position"
+msgstr "Hair Tail back - Position"
+
+#. Key:	title.head_style
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,title.head_style"
+msgid "Head Style"
+msgstr "Head Style"
+
+#. Key:	title.head_top
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,title.head_top"
+msgid "Head Top"
+msgstr "Head Top"
+
+#. Key:	title.height
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,title.height"
+msgid "Height"
+msgstr "Height"
+
+#. Key:	title.iris
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,title.iris"
+msgid "Iris"
+msgstr "Iris"
+
+#. Key:	title.json_converter
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,title.json_converter"
+msgid "Json Converter"
+msgstr "Json Converter"
+
+#. Key:	title.morphology
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,title.morphology"
+msgid "Morphology"
+msgstr "Morphology"
+
+#. Key:	title.mouth
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,title.mouth"
+msgid "Mouth"
+msgstr "Mouth"
+
+#. Key:	title.pose
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,title.pose"
+msgid "Pose"
+msgstr "Pose"
+
+#. Key:	title.preset_color
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,title.preset_color"
+msgid "Preset Color"
+msgstr "Preset Color"
+
+#. Key:	title.tail
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,title.tail"
+msgid "Tail"
+msgstr "Tail"
+
+#. Key:	tooltip.add_new_empty
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,tooltip.add_new_empty"
+msgid "Add new empty"
+msgstr "Add new empty"
+
+#. Key:	tooltip.add_new_from_selected_char
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,tooltip.add_new_from_selected_char"
+msgid "Add new from selected character"
+msgstr "Add new from selected character"
+
+#. Key:	tooltip.edit_selected
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,tooltip.edit_selected"
+msgid "Edit selected"
+msgstr "Edit selected"
+
+#. Key:	tooltip.remove_selected
+#. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+#: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
+msgctxt "FACCModule,tooltip.remove_selected"
+msgid "Remove selected"
+msgstr "Remove selected"
+
