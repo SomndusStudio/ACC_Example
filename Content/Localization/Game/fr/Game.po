@@ -1,31 +1,28 @@
+﻿# Game French translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-07-04 00:32\n"
-"PO-Revision-Date: 2023-07-04 02:33+0200\n"
-"Last-Translator: \n"
+"POT-Creation-Date: 2023-09-16 18:28\n"
+"PO-Revision-Date: 2023-09-16 18:28\n"
 "Language-Team: \n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 3.3.2\n"
 
 #. Key:	alert.cant_remove_char
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,alert.cant_remove_char"
 msgid "You can't remove character until you don't have 2 or more"
-msgstr "Vous ne pouvez pas retirer un caractère tant que vous n'avez pas 2 ou plus de"
+msgstr "Vous ne pouvez pas supprimer un personnage tant que vous n'en n'avez pas 2 ou plus"
 
 #. Key:	ask.entry_pseudo
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,ask.entry_pseudo"
 msgid "Please enter the pseudo"
 msgstr "Veuillez saisir le pseudo"
@@ -33,10 +30,9 @@ msgstr "Veuillez saisir le pseudo"
 #. Key:	breast
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,breast"
 msgid "Breast"
-msgstr "Sein"
+msgstr "Poitrine"
 
 #. Key:	btn.back
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
@@ -48,7 +44,6 @@ msgstr "Retour"
 #. Key:	btn.blue_star
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,btn.blue_star"
 msgid "Blue Star"
 msgstr "Étoile bleue"
@@ -63,7 +58,6 @@ msgstr "Annuler"
 #. Key:	btn.change_specie
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,btn.change_specie"
 msgid "Change Specie"
 msgstr "Changer d'espèce"
@@ -85,7 +79,6 @@ msgstr "Confirmer"
 #. Key:	btn.convert_char_creation_to_json
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,btn.convert_char_creation_to_json"
 msgid "Convert To Json"
 msgstr "Convertir en Json"
@@ -107,7 +100,6 @@ msgstr "Terminer"
 #. Key:	btn.json_to_char_creation
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,btn.json_to_char_creation"
 msgid "Json to Character"
 msgstr "Json en caractères"
@@ -136,7 +128,6 @@ msgstr "Ouvrir les détails"
 #. Key:	btn.open_gender_modal
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,btn.open_gender_modal"
 msgid "Change Gender"
 msgstr "Changer de sexe"
@@ -144,15 +135,13 @@ msgstr "Changer de sexe"
 #. Key:	btn.open_json_tool
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,btn.open_json_tool"
 msgid "Open Json Tool"
-msgstr "Outil Open Json"
+msgstr "Ouvrir l'outil JSON"
 
 #. Key:	btn.pink_star
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,btn.pink_star"
 msgid "Pink Star"
 msgstr "Étoile rose"
@@ -160,7 +149,6 @@ msgstr "Étoile rose"
 #. Key:	btn.start_as_client
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,btn.start_as_client"
 msgid "Start as Client"
 msgstr "Commencer en tant que client"
@@ -168,7 +156,6 @@ msgstr "Commencer en tant que client"
 #. Key:	btn.start_as_server
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,btn.start_as_server"
 msgid "Start as Server"
 msgstr "Démarrer en tant que serveur"
@@ -190,7 +177,6 @@ msgstr "Oui"
 #. Key:	elf_ear
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,elf_ear"
 msgid "ElfEar"
 msgstr "Oreille d'elfe"
@@ -205,15 +191,13 @@ msgstr "Front "
 #. Key:	forenose_a
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,forenose_a"
 msgid "Forenose"
-msgstr "Front de taille"
+msgstr "Taille du front"
 
 #. Key:	header.character_detail
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,header.character_detail"
 msgid "Character Detail"
 msgstr "Détail du personnage"
@@ -221,7 +205,6 @@ msgstr "Détail du personnage"
 #. Key:	header_character_selection
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,header_character_selection"
 msgid "Characters Selection"
 msgstr "Sélection des personnages"
@@ -243,7 +226,6 @@ msgstr "Hanches"
 #. Key:	jaw_fat
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,jaw_fat"
 msgid "Jaw Fat"
 msgstr "Graisse de la mâchoire"
@@ -251,7 +233,6 @@ msgstr "Graisse de la mâchoire"
 #. Key:	label.char_level
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,label.char_level"
 msgid "Lv.{value}"
 msgstr "Lv.{value}"
@@ -273,7 +254,6 @@ msgstr "Diamant"
 #. Key:	label.enter_name
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,label.enter_name"
 msgid "Enter Name :"
 msgstr "Entrer le nom :"
@@ -281,7 +261,6 @@ msgstr "Entrer le nom :"
 #. Key:	label.eye_size
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,label.eye_size"
 msgid "EyeSize"
 msgstr "Taille des yeux"
@@ -303,7 +282,6 @@ msgstr "Clair"
 #. Key:	label.muscle
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,label.muscle"
 msgid "Muscle"
 msgstr "Muscle"
@@ -325,7 +303,6 @@ msgstr "B"
 #. Key:	label.short_green
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,label.short_green"
 msgid "G "
 msgstr "G"
@@ -368,7 +345,6 @@ msgstr "Corps"
 #. Key:	menu.brow
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,menu.brow"
 msgid "Brow"
 msgstr "Sourcils"
@@ -378,7 +354,7 @@ msgstr "Sourcils"
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 msgctxt "FACCModule,menu.custom"
 msgid "Custom"
-msgstr "Personnalisé"
+msgstr "Personnaliser"
 
 #. Key:	menu.detail
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
@@ -404,7 +380,6 @@ msgstr "Œil"
 #. Key:	menu.eye_shape
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,menu.eye_shape"
 msgid "Eye Shape"
 msgstr "Forme des yeux"
@@ -412,7 +387,6 @@ msgstr "Forme des yeux"
 #. Key:	menu.face_custom
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,menu.face_custom"
 msgid "Face Custom"
 msgstr "Personnalisation du visage"
@@ -450,7 +424,7 @@ msgstr "Couleur des cheveux"
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 msgctxt "FACCModule,menu.head"
 msgid "Head"
-msgstr "Tête (Head)"
+msgstr "Tête"
 
 #. Key:	menu.maturity
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
@@ -462,7 +436,6 @@ msgstr "Maturité"
 #. Key:	menu.morph_detail
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,menu.morph_detail"
 msgid "Morph Detail"
 msgstr "Morph Detail"
@@ -470,7 +443,6 @@ msgstr "Morph Detail"
 #. Key:	menu.morphs
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,menu.morphs"
 msgid "Morphs"
 msgstr "Morphes"
@@ -485,7 +457,6 @@ msgstr "Tenues"
 #. Key:	menu.pose_style
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,menu.pose_style"
 msgid "Pose Style"
 msgstr "Style de pose"
@@ -514,7 +485,6 @@ msgstr "Couleur d’habillage 2"
 #. Key:	message.ask_add_character
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,message.ask_add_character"
 msgid "Are you sure do you want add a new character ?"
 msgstr "Etes-vous sûr de vouloir ajouter un nouveau personnage ?"
@@ -522,15 +492,13 @@ msgstr "Etes-vous sûr de vouloir ajouter un nouveau personnage ?"
 #. Key:	message.ask_copy_character
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,message.ask_copy_character"
 msgid "You will copy this character as newer, it's good for you ?"
-msgstr "Vous copierez ce personnage en tant que nouveau, c'est bon pour vous ?"
+msgstr "Vous copierez ce personnage en tant que nouveau, cela vous convient ?"
 
 #. Key:	message.ask_remove_char
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,message.ask_remove_char"
 msgid "Did you want delete the selected character ?"
 msgstr "Voulez-vous supprimer le caractère sélectionné ?"
@@ -538,7 +506,6 @@ msgstr "Voulez-vous supprimer le caractère sélectionné ?"
 #. Key:	message.save_in_progress
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,message.save_in_progress"
 msgid "Save in progress"
 msgstr "Sauvegarde en cours"
@@ -553,38 +520,34 @@ msgstr "En attente"
 #. Key:	messsage.character_remove_progress
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,messsage.character_remove_progress"
 msgid "Character removing..."
-msgstr "Suppression du caractère..."
+msgstr "Suppression du personnage..."
 
 #. Key:	mouth_sx_a
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,mouth_sx_a"
 msgid "Mouth Size X"
-msgstr "Taille de la bouche X"
+msgstr "Taille de la bouche"
 
 #. Key:	mressage.ask_edit_char
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,mressage.ask_edit_char"
 msgid "You will edit the selected character, it's ok ?"
-msgstr "Vous allez éditer le personnage sélectionné, c'est bon ?"
+msgstr "Vous allez éditer le personnage sélectionné, cela vous convient ?"
 
 #. Key:	skybox.01
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 msgctxt "FACCModule,skybox.01"
 msgid "Blue Sky"
-msgstr "Голубое небо"
+msgstr "Ciel bleu"
 
 #. Key:	skybox.02
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,skybox.02"
 msgid "Violet Sky"
 msgstr "Ciel violet"
@@ -592,18 +555,16 @@ msgstr "Ciel violet"
 #. Key:	template_name
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,template_name"
 msgid "Anime Character Creator"
-msgstr "Créateur de personnage d'anime"
+msgstr "Anime Character Creator"
 
 #. Key:	template_name_with_version
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,template_name_with_version"
 msgid "Anime Character Creator {version}"
-msgstr "Créateur de personnages d'anime {version}"
+msgstr "Anime Character Creator {version}"
 
 #. Key:	title.accessory
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
@@ -622,7 +583,6 @@ msgstr "Arrière-plan"
 #. Key:	title.bearb
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,title.bearb"
 msgid "Bearb"
 msgstr "Ours"
@@ -630,10 +590,9 @@ msgstr "Ours"
 #. Key:	title.body_morphs
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,title.body_morphs"
 msgid "Body Morphs"
-msgstr "Morphes du corps"
+msgstr "Forme du corps"
 
 #. Key:	title.change_lang
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
@@ -645,15 +604,13 @@ msgstr "Changer la langue"
 #. Key:	title.character_preset
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,title.character_preset"
 msgid "Character Preset"
-msgstr "Présélection de caractères"
+msgstr "Présélection du personnage"
 
 #. Key:	title.choose_specie
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,title.choose_specie"
 msgid "Choose Specie"
 msgstr "Choisir l'espèce"
@@ -668,7 +625,6 @@ msgstr "Tissu"
 #. Key:	title.cloth_foot
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,title.cloth_foot"
 msgid "Cloth Foot"
 msgstr "Pied en tissu"
@@ -676,7 +632,6 @@ msgstr "Pied en tissu"
 #. Key:	title.cloth_pant
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,title.cloth_pant"
 msgid "Cloth Pant"
 msgstr "Pantalon en tissu"
@@ -684,7 +639,6 @@ msgstr "Pantalon en tissu"
 #. Key:	title.cloth_top
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,title.cloth_top"
 msgid "Cloth Top"
 msgstr "Dessus en tissu"
@@ -713,7 +667,6 @@ msgstr "Couleur 3"
 #. Key:	title.custom_face
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,title.custom_face"
 msgid "Custom Face"
 msgstr "Visage personnalisé"
@@ -721,7 +674,6 @@ msgstr "Visage personnalisé"
 #. Key:	title.custom_face_color
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,title.custom_face_color"
 msgid "Custom Face - Color"
 msgstr "Visage personnalisé - Couleur"
@@ -729,7 +681,6 @@ msgstr "Visage personnalisé - Couleur"
 #. Key:	title.details
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,title.details"
 msgid "Details"
 msgstr "Détails"
@@ -744,7 +695,6 @@ msgstr "Afficher un cercle"
 #. Key:	title.eye_brow
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,title.eye_brow"
 msgid "Eye Brow"
 msgstr "Sourcils"
@@ -759,7 +709,6 @@ msgstr "Couleur des yeux"
 #. Key:	title.eye_style
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,title.eye_style"
 msgid "Eye Style"
 msgstr "Style des yeux"
@@ -774,7 +723,6 @@ msgstr "Gant"
 #. Key:	title.hair_back
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,title.hair_back"
 msgid "Hair Back"
 msgstr "Cheveux en arrière"
@@ -782,7 +730,6 @@ msgstr "Cheveux en arrière"
 #. Key:	title.hair_front
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,title.hair_front"
 msgid "Hair Front"
 msgstr "Front de la chevelure"
@@ -790,7 +737,6 @@ msgstr "Front de la chevelure"
 #. Key:	title.hair_side_left
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,title.hair_side_left"
 msgid "Hair Side Left"
 msgstr "Côté gauche des cheveux"
@@ -798,7 +744,6 @@ msgstr "Côté gauche des cheveux"
 #. Key:	title.hair_side_right
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,title.hair_side_right"
 msgid "Hair Side Right"
 msgstr "Côté cheveux à droite"
@@ -806,7 +751,6 @@ msgstr "Côté cheveux à droite"
 #. Key:	title.hair_style
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,title.hair_style"
 msgid "Hair Style"
 msgstr "Coiffure"
@@ -814,33 +758,30 @@ msgstr "Coiffure"
 #. Key:	title.hair_tail_back
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,title.hair_tail_back"
 msgid "Hair Tail back"
-msgstr "Queue de cheveux en arrière"
+msgstr "Queue-de-cheval en arrière"
 
 #. Key:	title.hair_tail_back_position
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,title.hair_tail_back_position"
 msgid "Hair Tail back - Position"
-msgstr "Queue de cheveux en arrière - Position"
+msgstr "Queue-de-cheval en arrière - Position"
 
 #. Key:	title.head_style
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 msgctxt "FACCModule,title.head_style"
 msgid "Head Style"
-msgstr "Style de tête"
+msgstr "Style de la tête"
 
 #. Key:	title.head_top
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,title.head_top"
 msgid "Head Top"
-msgstr "Haut de la page"
+msgstr "Haut de la tête"
 
 #. Key:	title.height
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
@@ -859,7 +800,6 @@ msgstr "Iris"
 #. Key:	title.json_converter
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,title.json_converter"
 msgid "Json Converter"
 msgstr "Convertisseur Json"
@@ -902,18 +842,16 @@ msgstr "Suivre"
 #. Key:	tooltip.add_new_empty
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,tooltip.add_new_empty"
 msgid "Add new empty"
-msgstr "Ajouter un nouveau vide"
+msgstr "Ajouter un nouveau personnage"
 
 #. Key:	tooltip.add_new_from_selected_char
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
 #: /ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
-#, fuzzy
 msgctxt "FACCModule,tooltip.add_new_from_selected_char"
 msgid "Add new from selected character"
-msgstr "Ajouter nouveau à partir du caractère sélectionné"
+msgstr "Ajouter nouveau personnage à partir de celui sélectionné"
 
 #. Key:	tooltip.edit_selected
 #. SourceLocation:	/ACC/Shared/ST_ACC_Localization.ST_ACC_Localization
@@ -928,3 +866,4 @@ msgstr "Modifier les métriques sélectionnées"
 msgctxt "FACCModule,tooltip.remove_selected"
 msgid "Remove selected"
 msgstr "Retirer la sélection"
+
